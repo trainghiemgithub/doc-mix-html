@@ -46,7 +46,7 @@ assgin-key | key | Khóa của dữ liệu hiện tại
 
 * Product:
 
-  * Các thành phần trong `model`:
+  * Các thành phần trong `=`:
   
   Tên thành phần | Mô tả | Gợi ý trang sử dụng
   ------------ | ------------- | -------------
